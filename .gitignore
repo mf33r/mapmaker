@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# rascunho do editor: e trabalho em andamento, nao parte do programa
+mapa.json
+_teste.json
+*.bak
